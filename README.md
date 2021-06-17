@@ -1,2 +1,2 @@
 # imdb-movies-analysis
-Data science project concerning IMDb film metrics
+First public data science project concerning analysis of IMDb movie data.
